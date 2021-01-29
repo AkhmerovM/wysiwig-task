@@ -1,6 +1,8 @@
 # Запуск приложения 
 
-npm i && npm run dev
+```sh
+$ npm i && npm run dev
+```
 
 # Тестовое задание
 
